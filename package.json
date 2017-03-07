@@ -1,6 +1,9 @@
 {
   "name": "google-cloud-node",
   "private": "true",
+  "dependencies": {
+    "google-auth-library" : "ntkog/google-auth-library-nodejs"
+  },
   "devDependencies": {
     "array-uniq": "^1.0.3",
     "async": "^2.0.1",
